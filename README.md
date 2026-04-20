@@ -15,6 +15,8 @@ Para esse desafio, decidi criar um notebook que contasse a história do Cruzeiro
 
 [Google NotebookLM](https://notebooklm.google.com/) – ferramenta de IA para organização e interação com documentos
 
+- Link do Notebook "Cruzeiro: Das raízes Italianas à Glória Brasielira" (https://notebooklm.google.com/notebook/884e6ebc-9438-4b3f-9ad0-4ccc5db0de66)
+
 ## Fontes usadas:
 
 Foram selecionadas **4 fontes abertas** para alimentar o NotebookLM:
